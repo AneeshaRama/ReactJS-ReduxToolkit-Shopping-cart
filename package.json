@@ -1,0 +1,32 @@
+{
+  "name": "ReactJS-TailwindCSS-StarterFiles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:AneeshaRama/ReactJS-TailwindCSS-StarterFiles.git",
+  "author": "AneeshaRama <aneesharama@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.13",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "^5.0.1",
+    "tailwindcss": "^3.0.24"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
